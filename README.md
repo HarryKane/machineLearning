@@ -6,3 +6,6 @@ This repository is a collection of various machine Learning algorithms implement
   * GaussianNB
   * MultinomialNB
 * deep belief network
+* Product-based Neural Network
+  *Inner Product-based Neural Network
+  *Outer Product-based Neural Network
